@@ -1,15 +1,13 @@
-¶ÔgitÔÚwindowsÖÐµÄ±àÂëÖ§³ÖÎÞÓïÁË
-ÎÒ¿´Ò»¿´Õâ¸öÄÜ²»ÄÜÊ¶±ð
-¿´À´gitÊÇ×Ô¶¯²Â²â±àÂëµÄ
-ÖÐÎÄÔ½¶à²ÂµÃÔ½×¼È·£¬ÖÐÎÄÌ«ÉÙ¾Í»áÂÒÂë
+gitæ˜¯è‡ªåŠ¨çŒœæµ‹ç¼–ç çš„
+ä¸­æ–‡è¶Šå¤šçŒœå¾—è¶Šå‡†ç¡®ï¼Œä¸­æ–‡å¤ªå°‘å°±ä¼šä¹±ç 
 
-ÔÚÕâÀïÏÂÔØgit for windows£º
+åœ¨è¿™é‡Œä¸‹è½½git for windowsï¼š
 https://github.com/git-for-windows/git/releases
 
-ÔÚÕâÀïÏÂÔØtortoisegit£º
+åœ¨è¿™é‡Œä¸‹è½½tortoisegitï¼š
 https://tortoisegit.org/download/
 
-¿Õ°×ÏîÄ¿µÚÒ»´ÎpushÒªÑ¡ÉÏÇ¿ÖÆ¡°Î´Öª±ä¸ü¡±£¬²»È»»á·¢Éú´íÎó¡£
+ç©ºç™½é¡¹ç›®ç¬¬ä¸€æ¬¡pushè¦é€‰ä¸Šå¼ºåˆ¶â€œæœªçŸ¥å˜æ›´â€ï¼Œä¸ç„¶ä¼šå‘ç”Ÿé”™è¯¯ã€‚
 
-Ê¹ÓÃ./setenv.sh password¿ÉÒÔÉèÖÃÃÜÂë¡£
+ä½¿ç”¨./setenv.sh passwordå¯ä»¥è®¾ç½®å¯†ç ã€‚
 
